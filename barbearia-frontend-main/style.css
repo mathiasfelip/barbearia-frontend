@@ -1,0 +1,27 @@
+    p {
+
+        color:darkblue;
+        text-align:justify;
+        font-size: 32px;
+    }
+
+    h1 {
+
+        
+        text-align: center;
+        font-weight: bold;
+        background-color: aquamarine;
+    }
+
+    h2 {
+
+        text-align: center;
+        font-style: italic;
+    }
+
+   .foto{
+    display: block;
+    margin-left:auto ;
+    margin-right:auto;
+
+    }
