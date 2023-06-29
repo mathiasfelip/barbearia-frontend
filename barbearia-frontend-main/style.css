@@ -1,27 +1,59 @@
-    p {
+   body{
+
+    background: rgb(138, 24, 24);
+   }
+   
+        p {
 
         color:darkblue;
         text-align:justify;
         font-size: 32px;
     }
 
-    h1 {
+         h1 {
 
         
         text-align: center;
         font-weight: bold;
-        background-color: aquamarine;
+        background-color: rgb(56, 15, 5);
+        color: rgb(175, 175, 24);
     }
 
-    h2 {
+        h2 {
 
         text-align: center;
         font-style: italic;
     }
 
-   .foto{
-    display: block;
-    margin-left:auto ;
-    margin-right:auto;
-
+        .foto{
+        display: block;
+        margin-left:auto ;
+        margin-right:auto;
     }
+        
+        .principal{
+            background: rgb(255, 166, 0);
+            padding: 30px;
+        }
+
+        .cortes{
+            font-style: italic;
+             }
+
+        .serviços{
+            background: rgb(214, 214, 31);
+            padding: 20px;
+        }
+
+        .ul{
+            display: inline-block;
+            vertical-align: top;
+            width: 20%;
+            margin-right: 15%
+        }
+
+        
+
+        
+    
+    
